@@ -1,49 +1,49 @@
 export const CONNECTION_GAMES = [
-  [
-    {
-      category: "Programming Languages",
-      words: ["Ruby", "Python", "Java", "JavaScript"],
-      difficulty: 1,
-    },
-    {
-      category: "CSS Display Values",
-      words: ["Flex", "Table", "Block", "Grid"],
-      difficulty: 2,
-    },
-    {
-      category: "Frontend Frameworks",
-      words: ["ReactJs", "Java Swing", "AngularJs", "VueJs"],
-      difficulty: 3,
-    },
-
-    {
-      category: "Database Platforms",
-      words: ["Firebase", "MySQL", "Express", "PostgreSQL"],
-      difficulty: 4,
-    },
-  ],
   // [
   //   {
-  //     category: "CSS Display Values",
-  //     words: ["Flex", "Table", "Block", "Grid"],
+  //     category: "Programming Languages",
+  //     words: ["Ruby", "Python", "Java", "JavaScript"],
   //     difficulty: 1,
   //   },
   //   {
-  //     category: "Browser Development Tools",
-  //     words: ["Elements", "Console", "Application", "Network"],
+  //     category: "CSS Display Values",
+  //     words: ["Flex", "Table", "Block", "Grid"],
   //     difficulty: 2,
   //   },
   //   {
-  //     category: "SQL Keywords",
-  //     words: ["Alter", "Join", "Limit", "Create"],
+  //     category: "Frontend Frameworks",
+  //     words: ["ReactJs", "Java Swing", "AngularJs", "VueJs"],
   //     difficulty: 3,
   //   },
+
   //   {
-  //     category: "JavaScript Libraries",
-  //     words: ["jQuery", "Lodash", "Moment.js", "Axios"],
+  //     category: "Database Platforms",
+  //     words: ["Firebase", "MySQL", "Express", "PostgreSQL"],
   //     difficulty: 4,
   //   },
   // ],
+  [
+    {
+      category: "CSS Display Values",
+      words: ["Flex", "Table", "Block", "Grid"],
+      difficulty: 1,
+    },
+    {
+      category: "Browser Development Tools",
+      words: ["Elements", "Console", "Application", "Network"],
+      difficulty: 2,
+    },
+    {
+      category: "SQL Keywords",
+      words: ["Alter", "Join", "Limit", "Create"],
+      difficulty: 3,
+    },
+    {
+      category: "JavaScript Libraries",
+      words: ["jQuery", "Lodash", "Moment.js", "Axios"],
+      difficulty: 4,
+    },
+  ],
   // [
   //   {
   //     category: "California Rappers",
